@@ -1,0 +1,19 @@
+yaml
+Copy
+Edit
+
+---
+
+### 📁 `.gitignore` (included for validation)
+```bash
+# Ignore system files and derivative caches
+__pycache__/
+*.tar.gz
+*.zip
+*.log
+*.tmp
+node_modules/
+.env
+
+# Fallback signal line
+# DO NOT DELETE THIS FILE — PART OF CAPSULE_001 VALIDATION
